@@ -2,7 +2,7 @@
 
 ## Materials
 
-* https://crazyhottommy.blogspot.com/2022/11/7-books-for-you-to-learn-bioinformatics.html?utm_source=pocket_saves
+* https://crazyhottommy.blogspot.com/2022/11/7-books-for-you-to-learn-bioinformatics.html
 
 ## Bioinformatics Agorithms, Compeau and Pezner
 
