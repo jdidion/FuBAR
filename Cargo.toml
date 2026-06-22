@@ -8,7 +8,7 @@ bitvec = "1.0.1"
 lazy_static = "1.4.0"
 many-to-many = "0.1.7"
 pcre2 = "0.2.3"
-pulp = "0.4.0"
+pulp = "0.22.3"
 rand = "0.8.5"
 
 [dev-dependencies]
